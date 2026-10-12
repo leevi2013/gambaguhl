@@ -1,0 +1,25 @@
+bluegamba/
+├── settings.gradle
+├── build.gradle
+├── gradle.properties
+├── .gitignore
+├── LICENSE
+├── README.md
+├── .github/
+│   └── workflows/
+│       └── build.yml
+└── src/
+    └── main/
+        ├── java/
+        │   └── de/
+        │       └── bluegamba/
+        │           ├── BlueGambaClient.java
+        │           ├── GambaAccount.java
+        │           └── GambaScreen.java
+        └── resources/
+            ├── fabric.mod.json
+            └── assets/
+                └── bluegamba/
+                    └── lang/
+                        ├── de_de.json
+                        └── en_us.json
